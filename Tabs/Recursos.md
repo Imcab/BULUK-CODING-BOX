@@ -55,7 +55,7 @@ La *navX* es un gyroscopio que se integra al robot para saber su orientación co
 
 URL:
 
-    `https://dev.studica.com/releases/2024/NavX.json`
+    https://dev.studica.com/releases/2024/NavX.json
 
 ### PathPlannerLib
 
@@ -65,7 +65,7 @@ URL:
 
 URL:
 
-    `https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json`
+    https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json
 
 ### ChoreoLib
 
@@ -75,7 +75,7 @@ URL:
 
 URL:
 
-    `https://SleipnirGroup.github.io/ChoreoLib/dep/ChoreoLib.json`
+    https://SleipnirGroup.github.io/ChoreoLib/dep/ChoreoLib.json
 
 ### PhotonLib
 
@@ -85,7 +85,7 @@ Librería para interactuar y agarrar información de las pipelines de *photonvis
 
 URL:
 
-    `https://maven.photonvision.org/repository/internal/org/photonvision/photonlib-json/1.0/photonlib-json-1.0.json`
+    https://maven.photonvision.org/repository/internal/org/photonvision/photonlib-json/1.0/photonlib-json-1.0.json
 
 ### AdvantageKit
 
@@ -98,7 +98,7 @@ URL:
 
 URL:
 
-    - `https://github.com/Mechanical-Advantage/AdvantageKit/releases/latest/download/AdvantageKit.json`
+    https://github.com/Mechanical-Advantage/AdvantageKit/releases/latest/download/AdvantageKit.json
 
 ## Documentaciones
 Docs donde guardamos un poco de todo se puede encontrar [AQUÍ](https://docs.google.com/document/d/1FQqJdlqdG4yySafQjJochPPrOaDmexw4Ws00bfmPxpU/edit)
