@@ -1,4 +1,4 @@
-# 1. Recursos
+# Recursos
 
 ![](/Images/Pathpl.png)
 
@@ -20,5 +20,78 @@ Una explicación más gráfica se encuentra en la presentación de [Estructura d
 4. **PEGAR LA URL EN LA BARRA Y DARLE ENTER**
 
 ### Librerías que usa 3472
+
 >[!IMPORTANT]
->*Nota: Las librerías a instalar están en 2024, se actualizarán en 2025*
+>*Nota: Las librerías a instalar están en 2024, se actualizarán en 2025 *
+
+#### REVLib
+
+![](/Images/REV.png)
+
+Librería para manipular todo el hardware de *REV Robotics*, en gran parte sus motores.
+
+URL:
+    - `https://software-metadata.revrobotics.com/REVLib-2024.json`
+
+### Phoenix6
+
+![](/Images/CTR.png)
+
+Librería para manipular el hardware de *CTR Electronics*, se instala para programar los talons FX (tipo de motor)
+
+URL:
+    - `https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json`
+
+### NavX
+
+![](/Images/NAVX.png)
+
+La *navX* es un gyroscopio que se integra al robot para saber su orientación conforme a la cancha
+
+>[!IMPORTANT]
+>*Nota: La librería de la navX suele estar desactualizada y es difícil de encontrar un link actualizado *
+
+URL:
+    - `https://dev.studica.com/releases/2024/NavX.json`
+
+### PathPlannerLib
+
+![](/Images/PTH.png)
+
+*PathPlanner* es una herramienta para generar trayectorias para el autónomo, la librería nos permite cargar esas trayectorias y usarlas para el autónomo
+
+URL:
+    - `https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json`
+
+### ChoreoLib
+
+![](/Images/CHOR.png)
+
+*Choreo* es un optimizador de trayectorias automático para calcular la mejor ruta, compatible con *Pathplanner.*
+
+URL:
+    - `https://SleipnirGroup.github.io/ChoreoLib/dep/ChoreoLib.json`
+
+### PhotonLib
+
+![](/Images/PHOT.png)
+
+Librería para interactuar y agarrar información de las pipelines de *photonvision.*
+
+URL:
+    - `https://maven.photonvision.org/repository/internal/org/photonvision/photonlib-json/1.0/photonlib-json-1.0.json`
+
+### AdvantageKit
+
+![](/Images/ADV.png)
+
+*AdvantageKit* es un logger que funciona mediante interfaces para rápido debuggeo, simulación, y cambios en tiempo real.
+
+>[!IMPORTANT]
+>*Nota: AdvantageKit cambia en su mayoría toda la estructura del código **NO ES RECOMENDABLE INSTALARLO (PARA PRINCIPIANTES)** , debido a que su instalación es más compleja es mejor descargar una plantilla con AdvantageKit instalado *
+
+URL:
+    - `https://github.com/Mechanical-Advantage/AdvantageKit/releases/latest/download/AdvantageKit.json`
+
+
+![](/Images/REC.png)
