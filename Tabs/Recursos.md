@@ -22,7 +22,7 @@ Una explicación más gráfica se encuentra en la presentación de [Estructura d
 ### Librerías que usa 3472
 
 >[!IMPORTANT]
->*Nota: Las librerías a instalar están en 2024, se actualizarán en 2025 *
+> Las librerías a instalar están en 2024, se actualizarán en 2025 
 
 #### REVLib
 
@@ -50,8 +50,8 @@ URL:
 
 La *navX* es un gyroscopio que se integra al robot para saber su orientación conforme a la cancha
 
->[!IMPORTANT]
->Nota: La librería de la navX suele estar desactualizada y es difícil de encontrar un link actualizado 
+>[!CAUTION]
+>La librería de la navX suele estar desactualizada y es difícil de encontrar un link actualizado 
 
 URL:
 
@@ -93,8 +93,8 @@ URL:
 
 *AdvantageKit* es un logger que funciona mediante interfaces para rápido debuggeo, simulación, y cambios en tiempo real.
 
->[!IMPORTANT]
->Nota: AdvantageKit cambia en su mayoría toda la estructura del código **NO ES RECOMENDABLE INSTALARLO (PARA PRINCIPIANTES)** , debido a que su instalación es más compleja es mejor descargar una plantilla con AdvantageKit instalado
+>[!WARNING]
+>AdvantageKit cambia en su mayoría toda la estructura del código **NO ES RECOMENDABLE INSTALARLO (PARA PRINCIPIANTES)** , debido a que su instalación es más compleja es mejor descargar una plantilla con AdvantageKit instalado
 
 URL:
 
@@ -143,8 +143,8 @@ Choreo (Constraint-Honoring Omnidirectional Route Editor and Optimizer, pronounc
 
 FRC Game Tools proporciona componentes que ayudan a los participantes de Competencia de Robótica FIRST (FRC) a administrar y comunicarse con robots.
 
->[!IMPORTANT]
->Nota: Instale los entornos de programación como NI LabVIEW o Microsoft Visual Studio® antes de instalar este producto.
+>[!NOTE]
+>Instale los entornos de programación como NI LabVIEW o Microsoft Visual Studio® antes de instalar este producto.
 
 ### [4. Advantage Scope](https://github.com/Mechanical-Advantage/AdvantageScope/releases/tag/v3.2.1)
 
@@ -169,8 +169,6 @@ The REV Hardware Client is software designed to make managing REV devices easier
 ![](/Images/TUNER.png)
 
 Phoenix Tuner X is the companion application allowing you to update, configure, analyze, and control your devices.
-
-
 
 *Espero que todo esto haya sido de ayuda :)*
 
