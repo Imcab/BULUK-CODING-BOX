@@ -10,7 +10,6 @@ BCB maneja **TODOS** sus ejemplos en JAVA. Para instalar JAVA para FRC entrar [A
 **[1. Recursos.](/Tabs/Recursos.md)**
   - Librerias
   - Documentaciones
-  - Recursos
   - Softwares a instalar
 
 **2. Ejemplos.**

@@ -8,4 +8,5 @@ Acceso rápido a las presentaciones vistas durante la semana de capacitaciones 2
 - [ESTRUCTURA DE UN ROBOT](https://www.canva.com/design/DAGOiRPhLsQ/O6h79IyM5yVCcMSFUxmIYw/view?utm_content=DAGOiRPhLsQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [ESTRUCTURA DE UN ROBOT II](https://www.canva.com/design/DAGOsBm2KnQ/KzFdn8EZZ2sNPVM5gCU3tQ/view?utm_content=DAGOsBm2KnQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+
 ![](/Images/CAP.png)

@@ -46,7 +46,7 @@ URL:
 
 ### NavX
 
-![](/Images/NAVX.png)
+![](/Images/NAVX2.png)
 
 La *navX* es un gyroscopio que se integra al robot para saber su orientación conforme a la cancha
 
@@ -100,5 +100,25 @@ URL:
 
     - `https://github.com/Mechanical-Advantage/AdvantageKit/releases/latest/download/AdvantageKit.json`
 
+## Documentaciones
+Docs donde guardamos un poco de todo se puede encontrar [AQUÍ](https://docs.google.com/document/d/1FQqJdlqdG4yySafQjJochPPrOaDmexw4Ws00bfmPxpU/edit)
+
+*Recopilación de los enlaces más importantes:*
+
+    - [DOCUMENTACIÓN WPILIB](https://docs.wpilib.org/en/stable/index.html)
+    - [DOCUMENTACIÓN DE LA RADIO](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/radio-programming.html)
+    - [DOCUMENTACIÓN PHOTONVISION](https://docs.photonvision.org/en/latest/)
+    - [GITHUB LIMELIGHT](https://github.com/LimelightVision/limelightlib-wpijava?tab=readme-ov-file)
+    - [DOCUMENTACIÓN CHOREO](https://sleipnirgroup.github.io/Choreo/)
+    - [PATHPLANNER DOCS](https://pathplanner.dev/home.html)
+    - [ADVANTAGE SCOPE DOCS](https://docs.advantagescope.org/)
+    - [ADVANTAGE KIT GITHUB](https://github.com/Mechanical-Advantage/AdvantageKit/tree/main)
+    - [PLUGINS ERROR](Known Issues — FIRST Robotics Competition documentation (wpilib.org))
+    - [ODOMETRÍA RESUMEN](https://docs.google.com/document/d/16U1POgTQF0mef69y7STbDaX4ksgq5o8mM7ESzRu8YzU/edit?usp=sharing)
+    - [COMMAND BASED PROGRAMMING](https://docs.wpilib.org/en/latest/docs/software/commandbased/index.html)
+    - [ENCODERS](https://docs.wpilib.org/en/stable/docs/software/hardware-apis/sensors/encoders-software.html)
+    - [APRILTAGS](https://docs.wpilib.org/es/stable/docs/software/vision-processing/apriltag/apriltag-intro.html)
+
+# SOFTWARES A INSTALAR
 
 ![](/Images/REC.png)
