@@ -32,7 +32,7 @@ Librería para manipular todo el hardware de *REV Robotics*, en gran parte sus m
 
 URL:
 
-    `https://software-metadata.revrobotics.com/REVLib-2024.json`
+    https://software-metadata.revrobotics.com/REVLib-2024.json
 
 ### Phoenix6
 
@@ -42,7 +42,7 @@ Librería para manipular el hardware de *CTR Electronics*, se instala para progr
 
 URL:
 
-    `https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json`
+    https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json
 
 ### NavX
 
