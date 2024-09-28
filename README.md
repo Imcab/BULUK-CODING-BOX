@@ -51,6 +51,7 @@ Una explicación más gráfica se encuentra en la presentación de [Estructura d
 1. Abrir la extensión de wpilib **(TIENE QUE ESTAR EL VSCODE ABIERTO)**
 
 ![](/Images/Ext.png)
+
 2. Buscar en la barra de comandos: `Manage vendor libraries`
 3. Elegir la opción: `Install new libraries (Online)`
 4. **PEGAR LA URL EN LA BARRA Y DARLE ENTER**
