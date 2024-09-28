@@ -32,7 +32,7 @@ Librería para manipular todo el hardware de *REV Robotics*, en gran parte sus m
 
 URL:
 
-    - `https://software-metadata.revrobotics.com/REVLib-2024.json`
+    `https://software-metadata.revrobotics.com/REVLib-2024.json`
 
 ### Phoenix6
 
@@ -42,7 +42,7 @@ Librería para manipular el hardware de *CTR Electronics*, se instala para progr
 
 URL:
 
-    - `https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json`
+    `https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json`
 
 ### NavX
 
@@ -55,7 +55,7 @@ La *navX* es un gyroscopio que se integra al robot para saber su orientación co
 
 URL:
 
-    - `https://dev.studica.com/releases/2024/NavX.json`
+    `https://dev.studica.com/releases/2024/NavX.json`
 
 ### PathPlannerLib
 
@@ -65,7 +65,7 @@ URL:
 
 URL:
 
-    - `https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json`
+    `https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json`
 
 ### ChoreoLib
 
@@ -75,7 +75,7 @@ URL:
 
 URL:
 
-    - `https://SleipnirGroup.github.io/ChoreoLib/dep/ChoreoLib.json`
+    `https://SleipnirGroup.github.io/ChoreoLib/dep/ChoreoLib.json`
 
 ### PhotonLib
 
@@ -85,7 +85,7 @@ Librería para interactuar y agarrar información de las pipelines de *photonvis
 
 URL:
 
-    - `https://maven.photonvision.org/repository/internal/org/photonvision/photonlib-json/1.0/photonlib-json-1.0.json`
+    `https://maven.photonvision.org/repository/internal/org/photonvision/photonlib-json/1.0/photonlib-json-1.0.json`
 
 ### AdvantageKit
 
