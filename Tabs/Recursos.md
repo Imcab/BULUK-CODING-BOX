@@ -118,8 +118,60 @@ Docs donde guardamos un poco de todo se puede encontrar [AQUÍ](https://docs.goo
 - [COMMAND BASED PROGRAMMING](https://docs.wpilib.org/en/latest/docs/software/commandbased/index.html)
 - [ENCODERS](https://docs.wpilib.org/en/stable/docs/software/hardware-apis/sensors/encoders-software.html)
 - [APRILTAGS](https://docs.wpilib.org/es/stable/docs/software/vision-processing/apriltag/apriltag-intro.html)
+- [PHOENIX 6 DOCUMENTATION](https://v6.docs.ctr-electronics.com/en/stable/index.html)
 
 
-# SOFTWARES A INSTALAR
+## SOFTWARES A INSTALAR
+
+Softwares que usamos durante toda la competencia.
+
+### [1.PATHPLANNER](https://apps.microsoft.com/detail/9nqbkb5dw909?cid=storebadge&ocid=badge&rtc=1&activetab=pivot%3Aoverviewtab&hl=en-us&gl=US)
+
+![](/Images/PTH.png)
+
+PathPlanner is a motion profile generator for FRC robots created by team 3015. Every path allows for manual tuning of the robot position and the curve radius at every point. It allows you to create the perfect path for your robot quicker and easier than other generators. PathPlanner can handle more complex paths than other generators because it will slow down the robot as it heads into a turn instead of going through it as fast as possible. If the robot is still not slowing down enough or you would like the robot to go slow at a certain point in the path, the robot's max velocity can be overridden at each point. Paths are generated in robot code with and easy to use vendor library, PathPlannerLib.
+
+### [2. CHOREO](https://github.com/SleipnirGroup/Choreo/releases)
+
+![](/Images/CHOR.png)
+
+Choreo (Constraint-Honoring Omnidirectional Route Editor and Optimizer, pronounced like choreography) is a graphical tool for planning time-optimized trajectories for autonomous mobile robots in the FIRST Robotics Competition.
+
+### [3. FRC GAME TOOLS](https://www.ni.com/es/support/downloads/drivers/download.frc-game-tools.html#500107)
+
+![](/Images/GTO.png)
+
+FRC Game Tools proporciona componentes que ayudan a los participantes de Competencia de Robótica FIRST (FRC) a administrar y comunicarse con robots.
+
+>[!IMPORTANT]
+>Nota: Instale los entornos de programación como NI LabVIEW o Microsoft Visual Studio® antes de instalar este producto.
+
+### [4. Advantage Scope](https://github.com/Mechanical-Advantage/AdvantageScope/releases/tag/v3.2.1)
+
+![](/Images/ADVC.png)
+
+AdvantageScope is a robot diagnostics, log review/analysis, and data visualization application for FIRST Robotics Competition teams. It reads logs in WPILOG, DS log, Hoot (CTRE), and RLOG file formats, plus live robot data viewing using NT4 or RLOG streaming. AdvantageScope can be used with any WPILib project, but is also optimized for use with our AdvantageKit log replay framework. Note that AdvantageKit is not required to use AdvantageScope.
+
+### [5. FRC RADIO CONFIGURATION UTILITY](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-3/radio-programming.html)
+
+![](/Images/RADIO.png)
+
+FRC® Radio Configuration Utility software to configure your robot’s wireless bridge for use outside of FRC events.
+
+### [6. REV HARDWARE CLIENT](https://docs.revrobotics.com/rev-hardware-client)
+
+![](/Images/CLIENT.png)
+
+The REV Hardware Client is software designed to make managing REV devices easier for the user. This Client automatically detects connected device(s), downloads the latest software for those device(s), and allows for seamless updating of the device(s) 
+
+### [7. PHOENIX TUNER X](https://apps.microsoft.com/detail/9nvv4pwdw27z?hl=es-es&gl=MX)
+
+![](/Images/TUNER.png)
+
+Phoenix Tuner X is the companion application allowing you to update, configure, analyze, and control your devices.
+
+
+
+*Espero que todo esto haya sido de ayuda :)*
 
 ![](/Images/REC.png)
