@@ -1,4 +1,4 @@
-# Capacitaciones
+# 🎓Capacitaciones
 ![](/Images/EST.png)
 Acceso rápido a las presentaciones vistas 2024:
 

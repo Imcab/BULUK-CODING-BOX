@@ -5,14 +5,14 @@ Buluk-Coding-Box (BCB) es una **biblioteca de recursos, documentación y ejemplo
 BCB maneja **TODOS** sus ejemplos en JAVA. Para instalar JAVA para FRC entrar [AQUÍ](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html)
 
 ### Índice
-  - **[0. Capacitaciones.](/Tabs/Capacitaciones.md)**
+  - **[🎓 Capacitaciones.](/Tabs/Capacitaciones.md)**
 
-  - **[1. Recursos.](/Tabs/Recursos.md)**
+  - **[📄 Recursos.](/Tabs/Recursos.md)**
     - Librerias
     - Documentaciones
     - Softwares a instalar
 
-  - **2. Ejemplos.**
+  - **✏️ Ejemplos.**
     - Timed Robot
       - Plantilla 
       - Encoders
@@ -24,6 +24,6 @@ BCB maneja **TODOS** sus ejemplos en JAVA. Para instalar JAVA para FRC entrar [A
       - CRESCENDO CODE
       - Interfaz IO
 
-  - **3. Extra.**
+  - **[📦 Extra.](/Tabs/Extra.md)**
     - Videos
     - Conferencias
