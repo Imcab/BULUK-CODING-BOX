@@ -3,6 +3,7 @@
 ![](/Images/Pathpl.png)
 
 ## Librerías
+
 Durante la competencia, tendemos a usar unas cuantas librerías las cuales instalaremos en VS CODE ***CADA QUE INICIEMOS UN NUEVO PROJECTO, LAS LIBRERIAS DEBERÁN DE SER INSTALADAS***
 
 ### Instalar Librerias
@@ -22,7 +23,7 @@ Una explicación más gráfica se encuentra en la presentación de [Estructura d
 ### Librerías que usa 3472
 
 >[!IMPORTANT]
-> Las librerías a instalar están en 2024, se actualizarán en 2025 
+> Las librerías a instalar están en 2024, se actualizarán en 2025
 
 #### REVLib
 
@@ -51,7 +52,7 @@ URL:
 La *navX* es un gyroscopio que se integra al robot para saber su orientación conforme a la cancha
 
 >[!CAUTION]
->La librería de la navX suele estar desactualizada y es difícil de encontrar un link actualizado 
+>La librería de la navX suele estar desactualizada y es difícil de encontrar un link actualizado
 
 URL:
 
@@ -101,6 +102,7 @@ URL:
     https://github.com/Mechanical-Advantage/AdvantageKit/releases/latest/download/AdvantageKit.json
 
 ## Documentaciones
+
 Docs donde guardamos un poco de todo se puede encontrar [AQUÍ](https://docs.google.com/document/d/1FQqJdlqdG4yySafQjJochPPrOaDmexw4Ws00bfmPxpU/edit)
 
 *Recopilación de los enlaces más importantes:*
@@ -119,7 +121,6 @@ Docs donde guardamos un poco de todo se puede encontrar [AQUÍ](https://docs.goo
 - [ENCODERS](https://docs.wpilib.org/en/stable/docs/software/hardware-apis/sensors/encoders-software.html)
 - [APRILTAGS](https://docs.wpilib.org/es/stable/docs/software/vision-processing/apriltag/apriltag-intro.html)
 - [PHOENIX 6 DOCUMENTATION](https://v6.docs.ctr-electronics.com/en/stable/index.html)
-
 
 ## SOFTWARES A INSTALAR
 
@@ -162,7 +163,7 @@ FRC® Radio Configuration Utility software to configure your robot’s wireless 
 
 ![](/Images/CLIENT.png)
 
-The REV Hardware Client is software designed to make managing REV devices easier for the user. This Client automatically detects connected device(s), downloads the latest software for those device(s), and allows for seamless updating of the device(s) 
+The REV Hardware Client is software designed to make managing REV devices easier for the user. This Client automatically detects connected device(s), downloads the latest software for those device(s), and allows for seamless updating of the device(s)
 
 ### [7. PHOENIX TUNER X](https://apps.microsoft.com/detail/9nvv4pwdw27z?hl=es-es&gl=MX)
 
@@ -170,6 +171,6 @@ The REV Hardware Client is software designed to make managing REV devices easier
 
 Phoenix Tuner X is the companion application allowing you to update, configure, analyze, and control your devices.
 
-*Espero que todo esto haya sido de ayuda :)*
+#### *Espero que todo esto haya sido de ayuda*
 
 ![](/Images/REC.png)

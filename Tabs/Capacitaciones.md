@@ -1,4 +1,5 @@
 # 🎓Capacitaciones
+
 ![](/Images/EST.png)
 Acceso rápido a las presentaciones vistas 2024:
 
@@ -9,6 +10,5 @@ Acceso rápido a las presentaciones vistas 2024:
 - [ESTRUCTURA DE UN ROBOT II](https://www.canva.com/design/DAGOsBm2KnQ/KzFdn8EZZ2sNPVM5gCU3tQ/view?utm_content=DAGOsBm2KnQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [COMMAND BASED AND POO](https://www.canva.com/design/DAGQg00PXdg/X8ePiFQE4BAzi-D74RzY0Q/view?utm_content=DAGQg00PXdg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [RDD (ROBORIO, DRIVER STATION, DASHBOARD)](https://www.canva.com/design/DAGRIah4AUA/jWaXE920Ok-cUQSFrqSvqg/edit)
-
 
 ![](/Images/CAP.png)

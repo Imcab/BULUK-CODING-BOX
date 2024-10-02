@@ -5,7 +5,7 @@ Aquí se encontrará toda información extra, en su mayoría videos y conferenci
 >[!TIP]
 > Recursos adicionales los cuales servirán para potenciar sus conocimientos al igual que ampliar su conocimiento durante su trayecto
 
-## Videos y conferencias:
+## Videos y conferencias
 
 ### [SWERVE 101](https://drive.google.com/drive/folders/1_EzgGxt47SJqUNyoavy6EmfZ48AQAwPR?usp=drive_link)
 
